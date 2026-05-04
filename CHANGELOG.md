@@ -1,4 +1,4 @@
-# Ansible Role for Inkscape
+# Ansible Role for Inkscape with Flatpak
 
 ## 13.6.0 - TBC
 

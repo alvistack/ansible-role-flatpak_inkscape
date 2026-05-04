@@ -1,13 +1,13 @@
-# Ansible Role for Inkscape
+# Ansible Role for Inkscape with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-inkscape/master)](https://gitlab.com/alvistack/ansible-role-inkscape/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-inkscape.svg)](https://github.com/alvistack/ansible-role-inkscape/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-inkscape.svg)](https://github.com/alvistack/ansible-role-inkscape/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.inkscape-blue.svg)](https://galaxy.ansible.com/alvistack/inkscape)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_inkscape/master)](https://gitlab.com/alvistack/ansible-role-flatpak_inkscape/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_inkscape.svg)](https://github.com/alvistack/ansible-role-flatpak_inkscape/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_inkscape.svg)](https://github.com/alvistack/ansible-role-flatpak_inkscape/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_inkscape-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_inkscape)
 
-Ansible Role for Inkscape Installation.
+Ansible Role for Inkscape with Flatpak.
 
 ## Requirements
 
